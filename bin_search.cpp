@@ -1,7 +1,7 @@
 #include <iostream>
 #include <vector>
 
-using namespace std;
+using namespace std; 
 
 int bin_search(vector<int> &v, int val, int start, int end){
     int mid = (start + end)/2;
